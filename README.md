@@ -32,4 +32,4 @@ I like to:
 This is a hyperlink to the [Imperial MSc Statistics](https://www.imperial.ac.uk/study/courses/postgraduate-taught/statistics/)
 
 ------
-last updated: 2024-09-31
+last updated: 2026-09-30
